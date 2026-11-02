@@ -1,0 +1,13 @@
+# Virtual environment — bisa dibuat ulang dari requirements.txt
+.venv/
+
+# Cache Python — dibuat otomatis saat script dijalankan
+__pycache__/
+*.pyc
+
+# Data latihan — bisa dibuat ulang dengan make_sample_data.py
+sample_data/
+
+# File sampah editor / OS
+.vscode/
+Thumbs.db
